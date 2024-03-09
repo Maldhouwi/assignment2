@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+    margin: 15%;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid #57b1dc;
+}
+h2{
+    color: orangered;
+}
